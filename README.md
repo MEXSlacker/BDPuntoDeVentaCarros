@@ -1,2 +1,2 @@
 # BDPuntoDeVentaCarros
-con conexion mysql, creado en netbeans
+Crud Application in java, used to store information of stock cars.  
